@@ -1,0 +1,87 @@
+﻿About=About...
+TranslationInfo=English translation by Jonathan Haas (Jonha at ModTheSims.info)
+AddProfile=&Add profile...
+AddProfileDialog=Add Profile
+EditProfileDialog=Edit Profile
+DefaultProfileDialog=Edit Default Profile
+DefaultProfile=Default profile
+DefaultProfileSection=Default profile
+AdditionalProfileSection=Custom profiles
+Close=Close
+Version=Version: %1.%2
+Name=Name:
+Language=Language:
+Advanced=Advanced options
+AdvancedOptions=Show advanced options
+Location=Location:
+Executable=Executable:
+Expansions=Expansions
+OK=OK
+Browse=&Browse...
+Cancel=Cancel
+Sims3Exe=Sims 3 executable
+ProfileAlreadyExists=A profile with this name already exists.
+ExecutableNotFound=You didn't set an executable or the executable doesn't exists.
+NoSpecialChars=Please don't use special characters that aren't allowed in file names. These include for example:
+NoSimsFound=Sims 3 could not be found. Please reinstall the game. Exit now?
+NeedToFixRegistryPermissions=After the first start or after the installation of expansion packs the permissions for some registry keys need to be fixed. You may have to confirm this action or enter the admin password. Proceed?
+NeedToFixRegistryPermissionsFail=Sorry, the permissions could not be changed. Please run FixRegistryRights.exe.
+CouldNotStartProcess=Could not start the game. Error message:
+AlreadyRunning=Any Game Starter 3 is already running.
+
+Mods=Mods:
+Savegames=Saves:
+Size=Size:
+Created=Created:
+
+Launch=&Start profile
+Launcher=&Open launcher
+OpenFolder=Open profile &folder
+Shortcut=&Create desktop shortcut
+Properties=&Properties...
+Delete=&Delete
+
+ProfileMissingMainInstruction=This profile can't be started because it doesn't exists
+ProfileMissingSubtitle=It may have been deleted.
+ProfileMissingInstruction1=If you tried to start this profile with a desktop shortcut, delete the shortcut and create a new one.
+
+FailureMainInstruction=Sims 3 didn't start
+FailureSubtitle=The game executable could not be started.
+FailureInstruction1=Make sure you are able to run Sims 3 without Any Game Starter 3.
+FailureInstruction2=Try to select a different combination of expansion packs.
+FailureInstruction3=Check the game executable in the advanced profile settings.
+
+EarlyGameExitMainInstruction=Sims 3 failed to start properly
+EarlyGameExitSubtitle=Sims 3 has displayed an error message.
+EarlyGameExitInstruction1=Try to solve the problem based on the error message.
+EarlyGameExitInstruction2=Make sure, your expansion packs have matching versions.
+EarlyGameExitInstruction3=Do not use the launcher to install game updates, download them manually or use “The Sims 3 Patch Downloader” on modthesims.info.
+
+PermissionsNeededMainInstruction=Any Game Starter 3 could not change the Sims 3 configuration
+PermissionsNeededSubtitle=Any Game Starter 3 needs to be able to change the permissions of some registry keys.
+PermissionsNeededInstruction1=If you're using Windows XP, log in as an administrator.
+PermissionsNeededInstruction2=Run FixRegistryRights.exe from the program folder.
+PermissionsNeededInstruction3=Give the current user full registry access to “HKLM\Software\(Wow6432Node\)Sims\*”
+
+PossibleSolutions=Possible solutions:
+StartGameErrorDialog=Start Sims 3
+
+DeleteProfileConfirm=Do you really want to delete the profile "%1"?
+DeleteProfileFolder1=Delete the profile folder, too?
+DeleteProfileFolder2=This will delete all savegames, screenshots, downloads, uploads and other files from the following folder:
+
+EnvironmentInfo=&Environment info
+
+Copy=Copy
+Rename=&Rename
+Duplicate=&Duplicate
+CopyProfileDialog=Duplicate Profile
+
+DirectoryAlreadyExists=The selected profile directory (see advanced options) already exists. Deleting this profile may erase all files from this directory. Proceed?
+DocumentPathModified=Any Game Starter 3 will temporarily adjust the document path. Do not use other applications while the game is running!
+
+NoGame=Could not detect Game
+NoExpansions=No expansions detected
+SteamMode=Sims 3 for Steam - Can't disable expansions
+
+FirstRunProfile=The profile folder could not be found. Please launch the profile at least one time to create the necessary folders and files.

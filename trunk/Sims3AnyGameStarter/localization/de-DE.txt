@@ -1,0 +1,86 @@
+﻿About=&Über
+TranslationInfo=Deutsche Übersetzung von Jonathan Haas (Jonha auf ModTheSims.info)
+AddProfile=&Neues Profil...
+AddProfileDialog=Neues Profil
+EditProfileDialog=Profil bearbeiten
+DefaultProfileDialog=Standard-Profil bearbeiten
+DefaultProfile=Standard-Profil
+DefaultProfileSection=Standard-Profil
+AdditionalProfileSection=Benutzerdefinierte Profile
+Close=Schließen
+Version=Version: %1.%2
+Name=Name:
+Language=Sprache:
+Advanced=Erweiterte Einstellungen
+AdvancedOptions=Erweiterte Einstellungen anzeigen
+Location=Speicherort:
+Executable=Programmdatei:
+Expansions=Erweiterungen
+OK=OK
+Browse=&Durchsuchen...
+Cancel=Abbrechen
+Sims3Exe=Sims-3-Programmdatei
+ProfileAlreadyExists=Ein Profil mit diesem Namen existiert bereits.
+ExecutableNotFound=Es wurde keine Programmdatei angegeben oder die Programmdatei existiert nicht.
+NoSpecialChars=Bitte verwenden Sie keine Sonderzeichen, die in Dateinamen nicht erlaubt sind. Dazu gehören:
+NoSimsFound=Es konnte keine Installation von Sims 3 gefunden werden. Bitte installieren Sie das Spiel erneut. Das Programm jetzt beenden?
+NeedToFixRegistryPermissions=Nach dem ersten Start oder nach der Installation von Erweiterungen von Sims 3 müssen die Berechtigungen der Sims-3-Registrierungsschlüssel angepasst werden. Dazu müssen Sie jetzt möglicherweise die Aktion bestätigen oder sich als Administrator anmelden. Fortfahren?
+NeedToFixRegistryPermissionsFail=Die Berechtigungen konnten leider nicht geändert werden. Bitte FixRegistryRights.exe ausführen.
+CouldNotStartProcess=Das Spiel konnte nicht gestartet werden. Grund:
+AlreadyRunning=Any Game Starter 3 wird bereits ausgeführt.
+Mods=Mods:
+Savegames=Spielstände:
+Size=Größe:
+Created=Erstellt:
+
+Launch=&Profil starten
+Launcher=&Launcher starten
+OpenFolder=Profil&ordner öffnen
+Shortcut=&Desktop-Verknüpfung erstellen
+Properties=&Eigenschaften...
+Delete=Lö&schen
+
+ProfileMissingMainInstruction=Dieses Profil kann nicht gestartet werden, weil es nicht existiert
+ProfileMissingSubtitle=Möglicherweise wurde es gelöscht.
+ProfileMissingInstruction1=Falls Sie eine Desktop-Verknüpfung benutzt haben, löschen Sie diese und erstellen Sie eine neue.
+
+FailureMainInstruction=Sims 3 kann nicht gestartet werden
+FailureSubtitle=Die Programmdatei konnte nicht ausgeführt werden.
+FailureInstruction1=Stellen Sie sicher, dass Sie Sims 3 ohne Any Game Starter 3 starten können.
+FailureInstruction2=Versuchen eine eine unterschiedliche Kombination an Erweiterungspacks.
+FailureInstruction3=Überprüfen Sie die Programdatei in den erweiterten Einstellungen.
+
+EarlyGameExitMainInstruction=Sims 3 wurde nicht erfolgreich gestartet
+EarlyGameExitSubtitle=Sims 3 hat eine Fehlermeldung angezeigt.
+EarlyGameExitInstruction1=Versuchen Sie das Problem anhand der Fehlermeldung zu lösen.
+EarlyGameExitInstruction2=Stellen Sie sicher, dass die Erweiterungspakete zueinander passende Versionen haben.
+EarlyGameExitInstruction3=Benutzen Sie nicht den Launcher um Updates zu installieren, installieren Sie diese manuell oder versuchen Sie “The Sims 3 Patch Downloader” auf modthesims.info.
+
+PermissionsNeededMainInstruction=Any Game Starter 3 konnte nicht die Sims-3-Konfiguration verändern
+PermissionsNeededSubtitle=Any Game Starter 3 muss die Sims-3-Registry-Einträge ändern können.
+PermissionsNeededInstruction1=Falls Sie Windows XP benutzen, loggen Sie sich als ein Administrator ein.
+PermissionsNeededInstruction2=Starten Sie FixRegistryRights.exe aus dem Programmordner.
+PermissionsNeededInstruction3=Geben Sie dem aktuellen Benutzer Vollzugriff auf “HKLM\Software\(Wow6432Node\)Sims\*”
+
+PossibleSolutions=Mögliche Lösungen:
+StartGameErrorDialog=Sims 3 starten
+
+DeleteProfileConfirm=Wirklich das Profil "%1" löschen?
+DeleteProfileFolder1=Auch den Profilordner löschen?
+DeleteProfileFolder2=Dadurch werden alle Spielstände, Screenshots, Downloads, Uploads und andere Dateien aus dem folgenden Ordner gelöscht:
+
+EnvironmentInfo=&Umgebungs-Info
+
+Copy=Kopie
+Rename=&Umbenennen
+Duplicate=Profil &kopieren
+CopyProfileDialog=Profil kopieren
+
+DirectoryAlreadyExists=Das zu benutzende Profil-Verzeichnis (siehe "Erweiterte Einstellungen") exisitert bereits. Beim Löschen dieses Profils werden die enthaltenen Dateien ggf. ebenfalls gelöscht.
+DocumentPathModified=Any Game Starter 3 wird den Dokumente-Ordner temporär verändern. Bitte während das Spiel läuft keine anderen Programme benutzen!
+
+NoGame=Keine Installation von "Die Sims 3" gefunden
+NoExpansions=Keine Erweiterungen gefunden
+SteamMode=Sims 3 für Steam - Erweiterungen sind nicht auswählbar
+
+FirstRunProfile=Der Profilordner wurde nicht gefunden. Bitte vor dem Hinzufügen von Mods o.ä. das Profil mindestens einmal starten.
